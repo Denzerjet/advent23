@@ -1,0 +1,1 @@
+lookups are faster than string splicing!!!!!
